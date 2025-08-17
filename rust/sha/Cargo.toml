@@ -6,7 +6,7 @@ authors = ["rronkkeli <67864350+rronkkeli@users.noreply.github.com>"]
 description = "A stage-by-stage, thoroughly explained implementation of SHA-1 using x86_64 SHA-NI intrinsics."
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/rronkkeli/educational-sha-ni"
+repository = "https://github.com/rronkkeli/educationals/rust/sha"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
